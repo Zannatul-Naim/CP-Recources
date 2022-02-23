@@ -14,3 +14,7 @@
 ## Bangla Resources...
  - <a href="https://github.com/me-shaon/bangla-programming-resources" target="_blank"> Bangla Programming Language Resources </a>
  - <a href="https://github.com/hasancse91/Programming-Problem-In-Bengali" target="_blank"> Programming in Bengali by Hasan sir </a>
+
+
+## Books
+ - <a href="https://github.com/Zannatul-Naim/CP-Recources/tree/main/Books" > Books (Free) </a>
