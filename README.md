@@ -1,3 +1,6 @@
 
 ## Blogs...
-1. <a href="https://halexv.blogspot.com/2015/10/competitive-programming-resources.html" terget="_blank">Halexv</a>
+ - <a href="https://halexv.blogspot.com/2015/10/competitive-programming-resources.html" terget="_blank">Halexv</a>
+
+# Bangla Resources...
+ - <a href="https://github.com/me-shaon/bangla-programming-resources" terget="_blank"> Bangla Programming Language Resources </a>
