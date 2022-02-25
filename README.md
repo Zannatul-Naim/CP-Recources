@@ -18,3 +18,8 @@
 
 ## Books
  - <a href="https://github.com/Zannatul-Naim/CP-Recources/tree/main/Books" > Books (Free) </a>
+
+## Learn Git
+ - <a href="https://eagain.net/articles/git-for-computer-scientists/">Git for Computer Scientists</a>
+ - <a href="https://ohshitgit.com/"> Oh Shit git!?! </a>
+ - <a href="https://docs.github.com/en/get-started"> Github official Doc </a>
