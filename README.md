@@ -4,6 +4,7 @@
  - <a href="https://halexv.blogspot.com/2015/10/competitive-programming-resources.html" target="_blank">Halexv</a>
  - <a href="https://graphics.stanford.edu/~seander/bithacks.html#CopyIntegerSign" target="_blank"> Bitwise Calculations </a>
  - <a href="https://www.theodinproject.com/"> The Odin Project </a>
+ - <a href="https://www.demo2s.com/"> Demo2s </a>
  
  ### C++
  - <a href="https://www.learncpp.com/" > LearnCPP </a>
