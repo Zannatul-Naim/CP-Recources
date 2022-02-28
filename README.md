@@ -7,6 +7,7 @@
  - <a href="https://graphics.stanford.edu/~seander/bithacks.html#CopyIntegerSign" target="_blank"> Bitwise Calculations </a>
  - <a href="https://www.theodinproject.com/"> The Odin Project </a>
  - <a href="https://www.demo2s.com/"> Demo2s </a>
+ - <a href="https://resorcery.pages.dev/"> A list of 6000+ Resources </a>
  
  ### C++
  - <a href="https://www.learncpp.com/" > LearnCPP </a>
