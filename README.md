@@ -20,6 +20,8 @@
 ## GitHub Readme
  -  <a href="https://github.com/Michael0x2a/curated-programming-resources"> Curated Programming Resources</a>
 
+## Python
+ - <a href="https://www.pythontutorial.net/">Python tutorial </a>
 
 ## Bangla Resources...
  - <a href="https://github.com/me-shaon/bangla-programming-resources" target="_blank"> Bangla Programming Language Resources </a>
